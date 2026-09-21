@@ -1,15 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20%5BSeu%20Nome%5D!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CA1AF&center=true&vCenter=true&width=600&lines=Desenvolvedor(a)+de+Software+%F0%9F%92%BB;Apaixonado(a)+por+Java+%E2%98%95+e+TypeScript+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br/>
-
+  
 ## 👨‍💻 Sobre mim
 
 - 🔭 Atualmente trabalhando na: **Companhia Petropolitana de Transportes (CPTRANS)**
@@ -38,24 +28,6 @@
 
 <br/>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=josebalthazar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josebalthazar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=josebalthazar&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=josebalthazar&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
