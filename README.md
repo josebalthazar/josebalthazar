@@ -27,32 +27,3 @@
 </div>
 
 <br/>
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josebalthazar/josebalthazar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josebalthazar/josebalthazar/output/github-contribution-grid-snake.svg" />
-  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/josebalthazar/josebalthazar/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joserodrigobalthazar/)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=josebalthazar&style=for-the-badge&color=4CA1AF)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CA1AF,100:2C3E50&height=100&section=footer" width="100%"/>
-
-</div>
